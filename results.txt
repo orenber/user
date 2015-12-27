@@ -1,0 +1,11 @@
+
+log=AegisP Protocol (network component):  Uninstalled.
+log=AegisP Protocol (device driver):  Stopped.
+log=AegisP Protocol (C:\WINDOWS\inf\AegisP.PNF):  Deleted.
+log=AegisP Protocol (C:\WINDOWS\inf\AegisP.inf):  Created.
+log=AegisP Protocol (C:\WINDOWS\system32\drivers\AegisP.sys):  Created.
+log=AegisP Protocol (network component):  Installed.
+message=Driver install was successful
+reboot=0
+log=AegisP Protocol (device driver):  Started - now running.
+code=0
